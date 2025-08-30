@@ -90,7 +90,7 @@ export function AdminSidebar() {
                       className={({ isActive: navIsActive }) =>
                         `flex items-center space-x-2 w-full ${
                           navIsActive || isActive(item.url)
-                            ? 'bg-primary text-primary-foreground font-medium'
+                            ? 'bg-primary font-medium'
                             : 'hover:bg-muted/50 text-muted-foreground hover:text-foreground'
                         }`
                       }
