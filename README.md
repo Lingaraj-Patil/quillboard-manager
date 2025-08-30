@@ -1,73 +1,11 @@
-# Welcome to your Lovable project
+<img width="1917" height="912" alt="Screenshot 2025-08-30 191437" src="https://github.com/user-attachments/assets/f40bd51b-8c9e-45c7-ae19-87fb3111b9f3" />
 
-## Project info
+<img width="1841" height="981" alt="Screenshot 2025-08-30 191444" src="https://github.com/user-attachments/assets/61e89fbf-5014-48ec-930b-8bd98fc172a5" />
 
-**URL**: https://lovable.dev/projects/60dbc307-d3fd-41af-a32f-9cf8eee52fe3
+<img width="1875" height="763" alt="Screenshot 2025-08-30 215827" src="https://github.com/user-attachments/assets/baf04736-1fe5-4a14-8852-4f3284569aad" />
 
-## How can I edit this code?
+<img width="1814" height="846" alt="Screenshot 2025-08-30 215922" src="https://github.com/user-attachments/assets/33341328-e0ee-428e-be93-ec79c4819318" />
 
-There are several ways of editing your application.
+<img width="1899" height="837" alt="Screenshot 2025-08-30 215940" src="https://github.com/user-attachments/assets/419c1957-02f4-4062-84c5-7f39e4d33981" />
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/60dbc307-d3fd-41af-a32f-9cf8eee52fe3) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/60dbc307-d3fd-41af-a32f-9cf8eee52fe3) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+<img width="1700" height="855" alt="Screenshot 2025-08-30 220113" src="https://github.com/user-attachments/assets/ce64a2ec-44ae-44d0-9ca5-b9dc929d5a54" />
